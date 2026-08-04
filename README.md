@@ -5,7 +5,7 @@
 <h2 align="center">Crafting Intelligent Models & Scalable Systems</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/prachetus-shukla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/prachetus-shukla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
   <a href="mailto:prachetus01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Gmail"></a>
   <a href="[YOUR_LEETCODE_URL](https://leetcode.com/u/Prachetus/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square" alt="LeetCode"></a>
   <a href="[YOUR_CODEFORCES_URL](https://codeforces.com/profile/prachetus)"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=flat-square" alt="Codeforces"></a>
@@ -48,6 +48,6 @@
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prachetus Shukla&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Prachetus Shukla&theme=dark&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prachetus&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Prachetus&theme=dark&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
 </p>
