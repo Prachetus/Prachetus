@@ -1,5 +1,6 @@
-<!-- New Custom Personalized Header Design -->
-![Prachetus Shukla Portfolio Header](https://rebrand.ly/prachetus-github-header)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=45&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=120&lines=Prachetus+Shukla;Software+Engineer;AI+%2F+ML+Architect;Full+Stack+Web+Dev" alt="Prachetus Shukla Animated Header" />
+</p>
 
 <h2 align="center">Crafting Intelligent Models & Scalable Systems</h2>
 
