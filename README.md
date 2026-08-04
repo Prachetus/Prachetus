@@ -1,15 +1,17 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=45&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=120&lines=Prachetus+Shukla;Software+Engineer;AI+%2F+ML+Architect;Full+Stack+Web+Dev" alt="Prachetus Shukla Animated Header" />
-</p>
+<h1 align="center">Prachetus Shukla</h1>
 
-<h2 align="center">Crafting Intelligent Models & Scalable Systems</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;AI+%2F+ML+Architect;Full+Stack+Web+Developer" alt="Roles Animation" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prachetus-shukla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
   <a href="mailto:prachetus01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Gmail"></a>
-  <a href="[YOUR_LEETCODE_URL](https://leetcode.com/u/Prachetus/)"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square" alt="LeetCode"></a>
-  <a href="[YOUR_CODEFORCES_URL](https://codeforces.com/profile/prachetus)"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=flat-square" alt="Codeforces"></a>
+  <a href="https://leetcode.com/u/Prachetus/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square" alt="LeetCode"></a>
+  <a href="https://codeforces.com/profile/prachetus"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=flat-square" alt="Codeforces"></a>
 </p>
+
+<br>
 
 ### 👨‍💻 A Bit About Me
 * **The Mission:** Bridging the gap between complex machine learning algorithms and seamless full-stack web experiences. 
