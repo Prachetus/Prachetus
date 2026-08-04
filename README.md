@@ -1,4 +1,5 @@
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Software%20Engineer%20|%20AI/ML%20|%20Web%20Dev&fontSize=30&fontColor=ffffff)
+<!-- New Custom Personalized Header Design -->
+![Prachetus Shukla Portfolio Header](https://rebrand.ly/prachetus-github-header)
 
 <h2 align="center">Crafting Intelligent Models & Scalable Systems</h2>
 
