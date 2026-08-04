@@ -27,6 +27,12 @@
 
 ### 🛠️ Core Technologies
 
+**Languages**
+<br>
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+
 **Frontend & Full Stack**
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -42,7 +48,6 @@
 
 **AI, ML & Data Engineering**
 <br>
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?logo=numpy&logoColor=white&style=for-the-badge)
 
